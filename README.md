@@ -1,3 +1,4 @@
+# Kalman Filtering with State Equality Constraints
 Implementazione della Filtro di Kalman con stato vincolato per un veicolo terrestre attrezzato per misurare la sua
 portata rispetto a due punti di riferimento) della pubblicazione scientifica "Kalman Filtering with State Equality
 Constraints,DAN SIMON,TIEN LI CHIA
